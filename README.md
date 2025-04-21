@@ -23,6 +23,7 @@ This project focuses on analyzing financial transaction behavior using SQL. It i
 
 - **MySQL** – Data querying, transformation, trend analysis
 - **MS Word** – Report presentation
+- **PowerBI** - Visualization
 
 ---
 
