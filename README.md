@@ -1,4 +1,4 @@
-# 📘 Financial Transaction Analysis-using SQL
+# 📘 Financial Transaction Analysis-using SQL and PowerBI
 
 ## 🎯 Project Overview
 
