@@ -26,6 +26,20 @@ This project focuses on analyzing financial transaction behavior using SQL. It i
 - **PowerBI** - Visualization
 
 ---
+## Power BI visualizations
+
+<img src="https://i.imgur.com/T9Y46iD.png" height="80%" width="80%"/>
+<br />
+<img src="https://i.imgur.com/G61VVf2.png" height="80%" width="80%"/>
+<br />
+
+
+
+
+
+
+
+
 
 ## 📊 Analysis Highlights
 
